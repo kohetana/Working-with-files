@@ -1,0 +1,5 @@
+IT AMD_Ryzen_5 10 2020
+HR Intel_i5 5 2018
+IT Intel_i7 2 2015
+Finance AMD_Ryzen_7 8 2021
+IT Intel_i3 4 2015
